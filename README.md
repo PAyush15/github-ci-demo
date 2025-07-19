@@ -6,4 +6,4 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/PAyush15/github-ci-demo)
 
-This is a demo project to learn how to create and add badges to GitHub Markdown and Pages.
+This is a demo project to learn how to create and add badges to GitHub Markdown and Pages. Static and dynamic!
